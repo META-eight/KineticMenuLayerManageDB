@@ -4,3 +4,4 @@ A utility dashboard for users to see which menu items have Kinetic layers, if so
 
 [Instructions for setting up](Setup.md)  
 [Instructions for use](Instructions.md)  
+[Kinetic Components](Components.md)
